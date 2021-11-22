@@ -1,5 +1,5 @@
 <body>
-a.button {
+.button {
   font-family: 'arial black';
   font-weight: bold;
   color: #14396A !important;
@@ -13,7 +13,7 @@ a.button {
   background: linear-gradient(to top, #63B8EE, #468CCF);
 }
 
-a.button:hover {
+.button:hover {
   color: #14396A !important;
   background: #468CCF;
   background: linear-gradient(to top, #468CCF, #63B8EE);
