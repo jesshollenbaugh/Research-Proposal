@@ -25,6 +25,11 @@
   transform: translateY(4px);
 }
 
+#right {
+  position: sticky;
+  right: 0;
+}
+
 h1 {
   color: #14396A;
   box-shadow: 3px 3px 2px 0px rgba(128, 0, 0, 1);
