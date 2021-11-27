@@ -1,7 +1,7 @@
 .button {
   font-family: 'arial black';
   font-weight: bold;
-  color: #14396A !important;
+  color: #14396A;
   font-size: 14px;
   text-shadow: 1px 1px 10px #7CACDE;
   box-shadow: 1px 1px 1px #BEE2F9;
@@ -13,23 +13,23 @@
 }
 
 .button:hover {
-  color: #14396A !important;
+  color: #14396A;
   background: #468CCF;
   background: linear-gradient(to top, #468CCF, #63B8EE);
 }
 
 .button:active {
-  color: #14396A !important;
+  color: #14396A;
   background: #468CCF;
   background: linear-gradient(to top, #468CCF, #63B8EE);
   transform: translateY(4px);
 }
   
 h1 {
-  color: #14396A !important;
+  color: #14396A;
   box-shadow: 3px 3px 2px 0px rgba(128, 0, 0, 1);
 }
 
 p {
-  color: #14396A !important;
+  color: #14396A;
 }
